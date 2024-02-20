@@ -21,8 +21,8 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by:santhosh kumar B 
 RegisterNumber:212223230193 
 ```
-## Developed by : CHARUMATHI R
-## REFNO : 212222240021
+## Developed by : santhosh kumar B
+## REFNO : 212223230193
 
 import numpy as np
 import matplotlib.pyplot as plt
